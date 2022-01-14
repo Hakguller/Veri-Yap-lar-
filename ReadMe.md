@@ -1,6 +1,6 @@
-											  Insort Short 
+# Insort Short 
 
-### Proje Detayları
+## Proje Detayları
 ---
 
 * ### Birinci Çalışma
@@ -14,7 +14,7 @@
 > [7,3,5,8,2,9,4,15,6] dizisinin Insertion Sort'a göre ilk 4 adımını yazınız.
 ---
 
- ###  Çözümler
+ ##  Çözümler
 
    * ### Birinci Çalışma Çözümü
 
@@ -36,14 +36,14 @@
 ---
 ---
 
-											   Merge Sort
-### Proje Detayları 
+# Merge Sort
+## Proje Detayları 
 > [16,21,11,8,12,22] -> Merge Sort
 
    - Yukarıdaki dizinin sort türüne göre aşamalarını yazınız.
    - Big-O gösterimini yazınız.
   ---
-  ### Çözüm
+  ## Çözüm
 
 > ### Big-O gösterimi; O(nlogn)
 ---
@@ -53,14 +53,14 @@
 ---
 ---
 ---
-											 Binary Search Tree
-### Proje Detayları 
+# Binary Search Tree
+## Proje Detayları 
 >[7, 5, 1, 8, 3, 6, 0, 9, 4, 2] dizisinin Binary-Search-Tree aşamalarını yazınız.
 
 Örnek: root x'dir. root'un sağından y bulunur. Solunda z bulunur vb.
 
 ---
- ### Çözüm
+ ## Çözüm
 
  Diziyi küçükten büyüğe sıralayalım
 > [0,1,2,3,4,5,6,7,8,9]
